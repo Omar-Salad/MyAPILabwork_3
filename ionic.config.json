@@ -1,0 +1,7 @@
+{
+  "name": "MyAPILabwork_3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
