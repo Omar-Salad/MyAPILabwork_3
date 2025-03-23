@@ -7,6 +7,7 @@ import {
 import React, { useState } from 'react';
 import { RouteComponentProps } from 'react-router';
 import useApi, { DetailsResult } from '../hooks/useAPI';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { bodyOutline, clipboardOutline, information, starHalfOutline, trophyOutline } from 'ionicons/icons';
 
 type DetailsPageProps = RouteComponentProps<{ id: string }>
